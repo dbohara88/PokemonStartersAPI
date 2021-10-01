@@ -1,0 +1,51 @@
+[
+{ 
+	"id": 1,
+	"name": "Charmander",
+	"gen": "Generation I",
+	"type": "Fire",
+	"index": 006,
+	"img": "https://static.wikia.nocookie.net/pokemon/images/8/87/004CharmanderFRLG.png/revision/latest/scale-to-width-down/132?cb=20100305223926"
+},
+{
+	"id": 2,
+	"name": "Bulbasaur",
+	"gen": "Generation I",
+	"type": ["Grass","Poison"],
+	"index": 001,
+	"img": "https://static.wikia.nocookie.net/pokemon/images/2/21/001Bulbasaur.png/revision/latest/scale-to-width-down/150?cb=20200620223551"
+	
+},
+{
+	"id": 3,
+	"name": "Squirtle",
+	"gen": "Generation I",
+	"type": "Water",
+	"index": 007,
+	"img": "https://static.wikia.nocookie.net/pokemon/images/3/39/007Squirtle.png/revision/latest/scale-to-width-down/134?cb=20200620223922"
+},
+{
+	"id": 4,
+	"name": "Cyndaquil",
+	"gen": "Generation II",
+	"type": "Fire",
+	"index": 155,
+	"img": "https://static.wikia.nocookie.net/pokemon/images/9/9b/155Cyndaquil.png/revision/latest/scale-to-width-down/150?cb=20140329012506"
+},
+{
+	"id": 5,
+	"name": "Chikorita",
+	"gen": "Generation II",
+	"type": "Grass",
+	"index": 152,
+	"img": "https://static.wikia.nocookie.net/pokemon/images/b/bf/152Chikorita.png/revision/latest/scale-to-width-down/150?cb=20140329012502"
+},
+{
+	"id": 6,
+	"name": "Totodile",
+	"gen": "Generation II",
+	"type": "Water",
+	"index": "158",
+	"img": "https://static.wikia.nocookie.net/pokemon/images/d/df/158Totodile.png/revision/latest/scale-to-width-down/150?cb=20140329012507"
+}
+]
