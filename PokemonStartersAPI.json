@@ -47,5 +47,53 @@
 	"type": "Water",
 	"index": 158,
 	"img": "https://static.wikia.nocookie.net/pokemon/images/d/df/158Totodile.png/revision/latest/scale-to-width-down/150?cb=20140329012507"
+},
+{
+	"id": 7,
+	"name": "Mudkip",
+	"gen": "Generation III",
+	"type": "Water",
+	"index": 258,
+	"img": "https://static.wikia.nocookie.net/pokemon/images/6/60/258Mudkip.png/revision/latest/scale-to-width-down/150?cb=20201023052725"
+},
+{
+	"id": 8,
+	"name": "Torchic",
+	"gen": "Generation III",
+	"type": "Fire",
+	"index": 255,
+	"img": "https://static.wikia.nocookie.net/pokemon/images/9/91/255Torchic.png/revision/latest/scale-to-width-down/150?cb=20201023052610"
+},
+{
+	"id": 9,
+	"name": "Treecko",
+	"gen": "Generation III",
+	"type": "Grass",
+	"index": 252,
+	"img": "https://static.wikia.nocookie.net/pokemon/images/2/2c/252Treecko.png/revision/latest/scale-to-width-down/150?cb=20201023051357"
+},
+{
+	"id": 10,
+	"name": "Piplup",
+	"gen": "Generation IV",
+	"type": "Water",
+	"index": 393,
+	"img": "https://static.wikia.nocookie.net/pokemon/images/b/b1/393Piplup.png/revision/latest/scale-to-width-down/150?cb=20201023053750"
+},
+{
+	"id": 11,
+	"name": "Chimchar",
+	"gen": "Generation IV",
+	"type": "Fire",
+	"index": 390,
+	"img": "https://static.wikia.nocookie.net/pokemon/images/7/76/390Chimchar.png/revision/latest/scale-to-width-down/150?cb=20201023053630"
+},
+{
+	"id": 12,
+	"name": "Turtwig",
+	"gen": "Generation IV",
+	"type": "Grass",
+	"index": 387,
+	"img": "https://static.wikia.nocookie.net/pokemon/images/5/5c/387Turtwig.png/revision/latest/scale-to-width-down/150?cb=20201023052937"
 }
 ]
